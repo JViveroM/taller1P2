@@ -1,0 +1,11 @@
+package co.edu.uelbosque.controller;
+
+public class AplMain {
+	
+public static void main(String[] args) {
+		
+		controller c = new controller();
+
+	}
+
+}
